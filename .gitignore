@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env*
+.vercel/
+.DS_Store
+# bulky, rebuilt from Drive (gdrive:nba-research-dashboard-archive) — see docs/SETUP.md
+scripts/out/
+# The pre-2026-10-14 local "NBA Research Dashboard v3" (FastAPI). Kept intact, not part of the new lab.
+legacy-v3/
+.vercel
